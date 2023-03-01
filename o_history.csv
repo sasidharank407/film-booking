@@ -1,0 +1,11 @@
+h_id,book_on_date,movie_name,show_on_date,show_time,total,customer_b_id
+1,2023-02-24,"Spider man no way home",2023-02-24,"09:00 am",1050.44,1
+2,2023-02-24,"Spider man fare from  home",2023-03-10,"03:00 pm",2100.88,1
+3,2023-02-24,Venom,2023-02-26,"06:00 pm",2100.88,2
+4,2023-02-24,"Spider man fare from  home",2023-02-24,"09:00 am",1050.44,2
+5,2023-02-27,"Spider man no way home",2023-02-27,"06:00 pm",1575.66,3
+6,2023-02-27,"Spider man no way home",2023-03-01,"09:00 pm",2100.88,2
+7,2023-02-27,Sooryavanshi,2023-03-01,"03:00 pm",1575.66,2
+8,2023-02-27,"Atrangi Re",2023-03-02,"06:00 pm",1050.44,2
+9,2023-02-27,"Spider man fare from  home",2023-03-02,"12:00 am",1575.66,2
+10,2023-02-27,Venom,2023-03-10,"03:00 pm",1575.66,2
