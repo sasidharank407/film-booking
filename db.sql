@@ -1,0 +1,1 @@
+SELECT * FROM bus_seat_project.customer;
